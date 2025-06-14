@@ -21,7 +21,7 @@ A command-line interface tool for managing companies, inventories, and users.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/company.git
+   git clone https://github.com/iren-ololo/company_ict401.git
    cd company
    ```
 
