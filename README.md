@@ -72,7 +72,7 @@ company
 │   └── logout                 # Logout from the system
 │
 ├── user                       # User management commands
-│   ├── profile                # View your profile
+│   ├── show-me                # View your profile
 │   ├── list                   # List all users (admin only)
 │   ├── add                    # Add new user (admin only)
 │   └── roles                  # View available roles
