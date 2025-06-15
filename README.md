@@ -88,3 +88,15 @@ company
 │
 └── exit                       # Exit the application
 ```
+
+# Usage
+
+## CLI
+   ```sh
+   uv run company -h
+   ```
+
+## Tests
+   ```sh
+   uv run pytest -v
+   ```
