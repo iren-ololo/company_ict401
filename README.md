@@ -63,7 +63,7 @@ Run the command-line tool using entry point command:
    company -h
    ```
 
-# Company CLI Command Structure
+## Company CLI Command Structure
 
 ```md
 company
@@ -89,14 +89,14 @@ company
 └── exit                       # Exit the application
 ```
 
-# Usage
+## Usage
 
-## CLI
+### CLI
    ```sh
    uv run company -h
    ```
 
-## Tests
+### Tests
    ```sh
    uv run pytest -v
    ```
